@@ -1,6 +1,10 @@
 go-2-iTerm2
 ===========
 
+### Website
+
+http://lyptik.github.io/go-2-iTerm/
+
 ### Download
 
 https://github.com/Lyptik/go-2-iTerm/releases
