@@ -17,6 +17,8 @@ Make a shortcut on your finder to either the "tab" or the "window" app
 
 The app use the current focused finder and opens an iTerm2 window or tab
 
+http://www.iterm2.com/#/section/home
+
 ### Thanks
 
 This script is heavily inspired by this repo :
