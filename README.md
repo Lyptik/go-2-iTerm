@@ -1,6 +1,10 @@
 go-2-iTerm2
 ===========
 
+### Download
+
+https://github.com/Lyptik/go-2-iTerm/releases
+
 ### Setup
 
 Make a shortcut on your finder to either the "tab" or the "window" app
