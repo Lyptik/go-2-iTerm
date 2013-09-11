@@ -27,5 +27,6 @@ https://github.com/LeEnno/alfred-terminalfinder
 
 ### TOFIX
 
+- Check if iTerm2 is installed on system before trying to launch it
 - When iTerm2 is open but has no term open, launching the application triggers an error
 - Do a better icon !
