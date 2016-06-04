@@ -11,7 +11,7 @@ https://github.com/Lyptik/go-2-iTerm/releases
 
 Requirement :
 
-[iTerm2](http://www.iterm2.com/) (Latest build works with iTerm2 v3.0)
+[iTerm2](http://www.iterm2.com/)
 
 ### How to use
 
