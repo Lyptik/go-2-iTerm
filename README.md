@@ -11,17 +11,17 @@ https://github.com/Lyptik/go-2-iTerm/releases
 
 Requirement :
 
-http://www.iterm2.com
+[iTerm2](http://www.iterm2.com/) (Latest build works with iTerm2 v3.0)
 
-### Setup
+### How to use
 
-Make a shortcut on your finder to either the "tab" or the "window" app
+Make a shortcut to the app on your finder bar
+or
+Call it from spotlight or [alfred](https://www.alfredapp.com/) at any moment by typing 'go'
 
 ### How it works
 
-The app use the current focused finder and opens an iTerm2 window or tab
-
-http://www.iterm2.com/
+The app use the current focused finder and opens an new [iTerm2](http://www.iterm2.com/) tab
 
 ### Thanks
 
@@ -29,8 +29,10 @@ This script is heavily inspired by this repo :
 
 https://github.com/LeEnno/alfred-terminalfinder
 
-### TOFIX
+### Legacy
 
-- Check if iTerm2 is installed on system before trying to launch it
-- When iTerm2 is open but has no term open, launching the application triggers an error
-- Do a better icon !
+For previous build of iTerm2 use go-2-iTerm v0.2
+
+### TODO
+
+- Update the icon !
